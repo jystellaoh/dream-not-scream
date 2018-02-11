@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "From Dusk till Dawn", "From Dusk till Dawn.csproj", "{9111B7FE-2C0D-E7F8-7E19-A6F538B6146A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "From Dusk till Dawn.Plugins", "From Dusk till Dawn.Plugins.csproj", "{6E11B40B-4E8C-AF43-07EB-30712C847432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "From Dusk till Dawn.Editor", "From Dusk till Dawn.Editor.csproj", "{F1DBE386-E1DB-AAC9-2503-853AC4A6C00D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "From Dusk till Dawn.Editor.Plugins", "From Dusk till Dawn.Editor.Plugins.csproj", "{D89A06EE-CA0E-209A-BA99-36FC1B0C69A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9111B7FE-2C0D-E7F8-7E19-A6F538B6146A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9111B7FE-2C0D-E7F8-7E19-A6F538B6146A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9111B7FE-2C0D-E7F8-7E19-A6F538B6146A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9111B7FE-2C0D-E7F8-7E19-A6F538B6146A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E11B40B-4E8C-AF43-07EB-30712C847432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E11B40B-4E8C-AF43-07EB-30712C847432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E11B40B-4E8C-AF43-07EB-30712C847432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E11B40B-4E8C-AF43-07EB-30712C847432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1DBE386-E1DB-AAC9-2503-853AC4A6C00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DBE386-E1DB-AAC9-2503-853AC4A6C00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DBE386-E1DB-AAC9-2503-853AC4A6C00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DBE386-E1DB-AAC9-2503-853AC4A6C00D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89A06EE-CA0E-209A-BA99-36FC1B0C69A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89A06EE-CA0E-209A-BA99-36FC1B0C69A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89A06EE-CA0E-209A-BA99-36FC1B0C69A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89A06EE-CA0E-209A-BA99-36FC1B0C69A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
